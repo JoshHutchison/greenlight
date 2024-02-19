@@ -25,6 +25,8 @@ _DISCLAIMER: Greenlight is not affiliated with Microsoft, Xbox or Moonlight. All
 ### Download pre-compiled binaries:
 [Latest releases can be found here](https://github.com/unknownskl/greenlight/releases)
 
+On Mac open with $ open /Applications/Xbox-xCloud.app --args --fullscreen
+
 ### Compile from source
 
 See [Local development](?tab=readme-ov-file#local-development)
